@@ -1,7 +1,7 @@
 ﻿using TCPData;
 using TCPExtensions;
 using System.Linq;
-namespace LINQ
+namespace ThePretendCompanyApplication
 {
     internal class Program
     {
