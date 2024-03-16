@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThePretendCompanyApplication", "LINQ\ThePretendCompanyApplication.csproj", "{B79D46AF-E1CC-4F88-852F-23EA97B1ECF9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThePretendCompanyApplication", "ThePretendCompanyApplication\ThePretendCompanyApplication.csproj", "{B79D46AF-E1CC-4F88-852F-23EA97B1ECF9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPData", "TCPData\TCPData.csproj", "{3B007DC7-C922-41E6-B307-F68891442F3F}"
 EndProject
