@@ -7,11 +7,11 @@ namespace TCPData
         {
             List<Employee> employees = new List<Employee>()
             {
-                new Employee() { Id = 1, FirstName = "James", LastName = "Jones", AnnualSalary = 60000.3m, IsManager = true, DepartmentId = 1 },
-                new Employee() { Id = 2, FirstName = "Bob", LastName = "Stevens", AnnualSalary = 30000.3m, IsManager = false, DepartmentId = 1, },
-                new Employee() { Id = 3, FirstName = "Sarah", LastName = "Jameson", AnnualSalary = 80000.3m, IsManager = true, DepartmentId = 2 },
                 new Employee() { Id = 4, FirstName = "Dough", LastName = "Jones", AnnualSalary = 40000.3m, IsManager = false, DepartmentId = 3 },
+                new Employee() { Id = 2, FirstName = "Bob", LastName = "Stevens", AnnualSalary = 30000.3m, IsManager = false, DepartmentId = 1, },
                 new Employee() { Id = 6, FirstName = "Dhanabal", LastName = "Ramakrishnan", AnnualSalary = 90000.3m, IsManager = false, DepartmentId = 3 },
+                new Employee() { Id = 3, FirstName = "Sarah", LastName = "Jameson", AnnualSalary = 80000.3m, IsManager = true, DepartmentId = 2 },
+                new Employee() { Id = 1, FirstName = "James", LastName = "Jones", AnnualSalary = 60000.3m, IsManager = true, DepartmentId = 1 },
                 new Employee() { Id = 7, FirstName = "Vijay", LastName = "Manikandan", AnnualSalary = 90000.3m, IsManager = false, DepartmentId = 5 }
             };
             return employees;
