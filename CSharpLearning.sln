@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThePretendCompanyApplication", "ThePretendCompanyApplication\ThePretendCompanyApplication.csproj", "{B79D46AF-E1CC-4F88-852F-23EA97B1ECF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThePretendCompanyApplication", "ThePretendCompanyApplication\ThePretendCompanyApplication.csproj", "{B79D46AF-E1CC-4F88-852F-23EA97B1ECF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPData", "TCPData\TCPData.csproj", "{3B007DC7-C922-41E6-B307-F68891442F3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TCPData", "TCPData\TCPData.csproj", "{3B007DC7-C922-41E6-B307-F68891442F3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPExtensions", "TCPExtensions\TCPExtensions.csproj", "{55CEDC45-B652-41EA-A5C5-6C170139CCF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TCPExtensions", "TCPExtensions\TCPExtensions.csproj", "{55CEDC45-B652-41EA-A5C5-6C170139CCF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQExample_1", "LINQExample_1\LINQExample_1.csproj", "{0D96F8F8-F953-4311-A552-B05E1B38EC2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQExample_1", "LINQExample_1\LINQExample_1.csproj", "{0D96F8F8-F953-4311-A552-B05E1B38EC2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQExample_2", "LINQExample_2\LINQExample_2.csproj", "{10A1E6A7-483A-4FE8-8805-48BE1C55B7C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQExample_2", "LINQExample_2\LINQExample_2.csproj", "{10A1E6A7-483A-4FE8-8805-48BE1C55B7C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQExample_3", "LINQExample_3\LINQExample_3.csproj", "{E6ACFB8B-D5A9-4932-BBC4-39D67FDBCE69}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{10A1E6A7-483A-4FE8-8805-48BE1C55B7C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10A1E6A7-483A-4FE8-8805-48BE1C55B7C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10A1E6A7-483A-4FE8-8805-48BE1C55B7C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6ACFB8B-D5A9-4932-BBC4-39D67FDBCE69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6ACFB8B-D5A9-4932-BBC4-39D67FDBCE69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6ACFB8B-D5A9-4932-BBC4-39D67FDBCE69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6ACFB8B-D5A9-4932-BBC4-39D67FDBCE69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
