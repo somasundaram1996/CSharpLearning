@@ -12,5 +12,9 @@ namespace TCPData
         public string ShortName { get; set; }
         public string LongName { get; set; }
 
+        public override string ToString()
+        {
+            return $"Id: {Id}, ShortName: {ShortName}, LongName: {LongName}";
+        }
     }
 }

@@ -19,5 +19,6 @@ namespace TCPData
         {
             return $"Id: {Id} , FirstName: {FirstName}, LastName: {LastName}, Annual Salary: {AnnualSalary}, IsManager: {IsManager}, DepartmentId: {DepartmentId}";
         }
+
     }
 }
